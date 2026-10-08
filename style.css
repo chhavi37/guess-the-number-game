@@ -1,0 +1,40 @@
+
+        body{
+            background-color: rgb(19, 19, 63);
+        }
+        #head{
+            text-align: center;
+            color: rgb(171, 171, 39);
+            font-size: large;
+
+        }
+        #specify{
+            text-align: center;
+            color: rgb(171, 171, 39);
+            font-size: large;
+        }
+        input{
+            color: rgb(19, 19, 63);
+            background-color:rgb(171, 171, 39);
+        }
+        button{
+            color: rgb(19, 19, 63);
+            background-color:rgb(171, 171, 39);
+            padding: 10px 15px;
+            border-radius: 30px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        #attempts{
+            text-align: center;
+            color: rgb(171, 171, 39);
+            font-size: large;
+        }
+        #makeguess{
+            text-align: center;
+            color: rgb(171, 171, 39);
+            font-size: large;
+        }
+        hr{
+            box-shadow: 2px;
+            color: gold;
+        }
